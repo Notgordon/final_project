@@ -1,0 +1,27 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+tr {
+	background-color: white;
+
+}
+
+table {
+	border-collapse: collapse;
+
+
+}
+
+table, th, td {
+	border: 1px solid black;
+
+}
+
+textarea {
+	display:block;
+	width: 375px;
+	height: 150px;
+}
